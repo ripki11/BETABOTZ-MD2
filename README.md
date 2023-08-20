@@ -43,7 +43,14 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBOTCAHX%2FRTXZY-MD)
 
+# Cyclic App
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeoneofficial)
 
+[`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
+
+<p align="center">
+  <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
+</p>
 
 ## Base Ori
 Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
