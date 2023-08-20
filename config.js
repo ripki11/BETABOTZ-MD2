@@ -39,7 +39,7 @@ global.packname = 'itoy ngentoy'
 global.author = 'Bot WhatsApp'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
+global.thumb = 'https://i3.wp.com/tmpfiles.org/dl/2048451/tmp.jpg'
 
 //===> Apikey
 global.lann = 'Toy1234' //isi apikey mu https://api.betabotz.org
