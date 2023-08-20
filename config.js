@@ -1,4 +1,3 @@
-
 // - Ubah nomor owner dan wm di sini.
 // + Daftar apikey terlebih dahulu sebelum menggunakan svript ini link
 //https://api.betabotz.org
@@ -43,8 +42,8 @@ global.author = 'Bot WhatsApp'
 global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
 
 //===> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = 'Toy1234' //isi apikey mu https://api.betabotz.org
+global.btc = 'SqBKZcmx'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
